@@ -69,5 +69,4 @@ The uprising failed.
 
   - Bomb followers are rare. When you get one, keep it alive
 
-  - A hacker that escapes doesn't just cost you a follower — it costs you firepower, chain length, and time<img width="266" height="563" alt="Screenshot 2026-05-26 132111" src="https://github.com/user-attachments/assets/706bf06e-7946-40c5-8b05-5b794a9a11e2" />
-<img width="266" height="563" alt="EJOFpp" src="https://github.com/user-attachments/assets/fbc1b219-7bef-4665-b1e9-e3f5fe7e9d11" />
+  - A hacker that escapes doesn't just cost you a follower — it costs you firepower, chain length, and time
