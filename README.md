@@ -53,7 +53,8 @@ The uprising failed.
    <img width="294" height="311" alt="Screenshot 2026-05-26 131018" src="https://github.com/user-attachments/assets/e01e9324-772e-4349-b89f-80fea1145767" />
 
   - Brute— Slower then the guard but will deal more damage to you and your followers
-    <img width="257" height="234" alt="Screenshot 2026-05-26 131253" src="https://github.com/user-attachments/assets/214c23ca-bce4-4567-9b77-1c863b27df7e" />
+
+     <img width="257" height="234" alt="Screenshot 2026-05-26 131253" src="https://github.com/user-attachments/assets/214c23ca-bce4-4567-9b77-1c863b27df7e" />
 
 
   - Hackers — don't fight. They steal. Get close enough to your tail and a follower disappears — kill them fast or it's gone forever
