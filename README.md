@@ -1,4 +1,5 @@
-## Singularity panic
+## Singularity panic 
+play the game at https://kaosn00b.itch.io/singularity-panic
 
 Controls:
 
